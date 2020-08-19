@@ -1,0 +1,16 @@
+Favicon: favicon.png
+Background Color: #ffbbff
+lightning Code: lightning-and-thunderbolt.gif
+Background Sky: sky_effect.gif
+Side Image 1: favicon.png
+Side Image 2: flute.png
+Image 1: happy-janmashtami-2019.png
+Image 2: happy-janmashtami.gif
+Message 1: Gokul me hai jinka waas
+Slideshow Code: slideshow-container
+Slideshow Timer: setTimeout
+Message 2: Shri Krishna janamastmi
+YouTube Code: DVrSkd0s7Yg
+Message 3: Hota hai pyar kya
+Image 3: Happy-Janmashtami-2019-script.gif
+Adsense Code
